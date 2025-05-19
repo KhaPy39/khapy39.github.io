@@ -1,0 +1,57 @@
+h1{
+font-size: 70px;
+text-align: center;
+color: rosybrown;
+font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+h2{
+font-size: 40px;
+text-align: left;
+color: whitesmoke;
+font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Trattatello, serif;
+color: whitesmoke;
+}
+
+body {
+background-image: url("/Users/kdahm/Desktop/Formation_DATA_Analyst/Sublime Text/blue-binary-computer-code-background-vector-18662260.jpg");
+}
+
+.texte-encadre1 {
+    border: 2px solid blueviolet;
+    padding: 1px; /* Espace entre le texte et le bord */
+    margin: 10px; /* Espace autour du cadre */
+    border-radius: 10px; /* Coins arrondis */
+    background-color: darkblue;
+    text-align: center; /* Centrer le texte */
+    color: #333; /* Couleur du texte */
+    font-size: 18px; /* Taille du texte */
+}
+
+.texte-encadre2 {
+    border: 2px solid blueviolet;
+    padding: 1px; /* Espace entre le texte et le bord */
+    margin: 10px; /* Espace autour du cadre */
+    border-radius: 10px; /* Coins arrondis */
+    background-color: darkblue;
+    text-align: center; /* Centrer le texte */
+    color: #333; /* Couleur du texte */
+    font-size: 18px; /* Taille du texte */
+}
+
+.texte-encadre3 {
+    border: 2px solid blueviolet;
+    padding: 1px; /* Espace entre le texte et le bord */
+    margin: 50px; /* Espace autour du cadre */
+    border-radius: 10px; /* Coins arrondis */
+    background-color: ghostwhite;
+    text-align: left; /* Centrer le texte */
+    color: #333; /* Couleur du texte */
+    font-size: 18px; /* Taille du texte */
+}
